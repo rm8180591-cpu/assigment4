@@ -97,7 +97,6 @@ img {
 
 /*------- end general style------*/
 /*------- nav bar-----*/
-/* Base Container Setup */
 #navbar .container {
     display: flex;
     justify-content: space-between;
@@ -321,6 +320,10 @@ img {
   top: 90;
   transform: rotate(45deg);
   background-color: #ffdc7d;
+}
+.btns
+{
+  display:flex;
 }
 
 /*---------------section 2-----------------*/
